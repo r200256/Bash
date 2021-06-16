@@ -1,5 +1,39 @@
 #!/bin/bash
 
+egrep 'T.?o' frost.txt
+# grep 'T.o' frost.txt
+
+# function myFunc(){
+#     if type -t wevtutil &> /dev/null
+# then
+#     OS=MSWin
+# elif type -t scutil &> /dev/null
+# then
+#     OS=macOS
+# else
+#     OS=Linux
+# fi
+# echo $OS
+# }
+# myFunc
+
+#Проверка системы
+# if type -t wevtutil &> /dev/null
+# then
+#     OS=MSWin
+# elif type -t scutil &> /dev/null
+# then
+#     OS=macOS
+# else
+#     OS=Linux
+# fi
+# echo $OS
+
+# for VAL in 20 3 dog peach 7 vanilla
+# do
+#     echo $VAL
+# done
+
 #Почему сюда попададают параметры  сука
 
 # for asd
