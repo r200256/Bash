@@ -1,6 +1,8 @@
-#!/bin/bash
 
-egrep 'T.?o' frost.txt
+
+'T.?o'
+
+#!/bin/bash
 # grep 'T.o' frost.txt
 
 # function myFunc(){
